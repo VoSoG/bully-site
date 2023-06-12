@@ -1,0 +1,134 @@
+
+.midia {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+/* Estilos do formulário de contato */
+form {
+  margin-top: 20px;
+}
+
+label {
+  color: white;
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+input[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+
+
+
+
+/* Estilos gerais */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+}
+
+h1, h2 {
+  color: #3F51B5;
+}
+
+p {
+  line-height: 1.5;
+  color: #fff;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+/* Estilos do cabeçalho */
+header {
+  background-color: #333;
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+/* Estilos da navegação */
+nav {
+  background-color: #333;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+li {
+  color: white;
+}
+
+.contactos {
+  color: #87f90a;
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+/* Estilos das seções */
+section {
+  padding: 40px;
+}
+
+/* Estilos do rodapé */
+.footer .copy-symbol {
+  font-size: 18px;
+  margin-right: 5px;
+}
+
+footer {
+  margin: 0;
+  padding: o;
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+}
+
+.VSG {
+  color: #fff;
+}
+
+.origem {
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
